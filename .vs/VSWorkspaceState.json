@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Biblioteca",
+    "\\Biblioteca\\Views"
   ],
+  "SelectedNode": "\\Biblioteca\\Views\\CadastroForm.Designer.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,3 +1,5 @@
+using Biblioteca.Views;
+
 namespace Biblioteca
 {
     internal static class Program
@@ -9,7 +11,8 @@ namespace Biblioteca
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new LoginForm());
+            Application.Run(new CadastroClienteForm());
+              
         }
     }
 }
