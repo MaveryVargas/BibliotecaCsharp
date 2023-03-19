@@ -470,39 +470,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Mávery Vargas\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\Gustavo\\.nuget\\packages\\": {},
->>>>>>> 41869c43dadf34078df00a60884d4f835b2c9459
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Mávery Vargas\\Source\\Repos\\MaveryVargas\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
       "projectPath": "C:\\Users\\Mávery Vargas\\Source\\Repos\\MaveryVargas\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Mávery Vargas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mávery Vargas\\Source\\Repos\\MaveryVargas\\BibliotecaCsharp\\Biblioteca\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Gustavo\\source\\repos\\Gustavosilvanodasilva\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
-      "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Gustavo\\source\\repos\\Gustavosilvanodasilva\\BibliotecaCsharp\\Biblioteca\\Biblioteca.csproj",
-      "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo\\source\\repos\\Gustavosilvanodasilva\\BibliotecaCsharp\\Biblioteca\\obj\\",
->>>>>>> 41869c43dadf34078df00a60884d4f835b2c9459
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\Mávery Vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 41869c43dadf34078df00a60884d4f835b2c9459
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -554,11 +538,7 @@
             "privateAssets": "none"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
->>>>>>> 41869c43dadf34078df00a60884d4f835b2c9459
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
